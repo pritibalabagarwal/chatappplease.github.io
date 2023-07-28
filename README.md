@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Chat App
+ChatApp is a simple chat application built with ReactJS. It allows users to send and receive chat messages.
+
+## Features
+
+- User can enter a message in the input box and send it to the chat.
+- The message will be displayed in the chat area along with the username and a heart icon for likes.
+- Each message is assigned a random username from a predefined list.
+- Users can like messages by clicking the heart icon, and the like count will be updated in real-time.
+- The chat area automatically scrolls to the latest message.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# ChatApp" 
